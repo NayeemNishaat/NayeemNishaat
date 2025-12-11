@@ -4,7 +4,7 @@
  <!-- <a href="https://www.fiverr.com/nayeemnishaat">Fiverr</a> | -->
   <a href="https://twitter.com/nayeemNishaat">Twitter</a> | 
   <a href="https://stackoverflow.com/users/17816883/labyrinth">Stack Overflow</a> | 
-  <a href="mailto:nayeemnishaat@gmail.com">Email</a> |
+  <a href="mailto:rxnayeemimi@gmail.com">Email</a> |
   <a href="https://wa.me/+8801849432850" target="_blank">WhatsApp</a>
 </p>
 
